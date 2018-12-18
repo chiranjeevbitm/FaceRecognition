@@ -15,8 +15,7 @@ Stores the Face information into numpy arrays
  4. Repeat the above for multiple people to generate training data
 
 
-
-	FaceRecognition/face recog/face_recognition.py
+	    FaceRecognition/face recog/face_recognition.py
       
  Recognise Faces using some classification algorithm - like Logistic, KNN, SVM etc.
 
@@ -32,7 +31,7 @@ Stores the Face information into numpy arrays
 
 
 
-	FaceRecognition/face recog/haarcascade_frontalface_alt.xml
+		FaceRecognition/face recog/haarcascade_frontalface_alt.xml
 
 trained haarcasecade for frontalface   download from https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_alt.xml
       
