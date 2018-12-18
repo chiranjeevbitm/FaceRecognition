@@ -32,8 +32,11 @@ Stores the Face information into numpy arrays
 
 
 		FaceRecognition/face recog/haarcascade_frontalface_alt.xml
+ 
+trained haarcasecade for frontalface   
+download from 
 
-trained haarcasecade for frontalface   download from https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_alt.xml
+https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_alt.xml
       
 
 
