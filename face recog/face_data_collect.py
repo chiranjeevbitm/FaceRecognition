@@ -1,12 +1,3 @@
- # Write a Python Script that captures images from your webcam video stream
-# Extracts all Faces from the image frame (using haarcascades)
-# Stores the Face information into numpy arrays
-
-# 1. Read and show video stream, capture images
-# 2. Detect Faces and show bounding box (haarcascade)
-# 3. Flatten the largest face image(gray scale) and save in a numpy array
-# 4. Repeat the above for multiple people to generate training data
-
 
 import cv2
 import numpy as np
