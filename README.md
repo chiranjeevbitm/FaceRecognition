@@ -1,5 +1,5 @@
 # FaceRecognition
-Python Script that captures images from your webcam video stream Extracts all Faces from the image frame (using haarcascades) Stores the Face information into numpy arrays and then Recognise Faces using some classification algorithm
+Python Script that captures images from your webcam video stream Extracts all Faces from the image and then Recognise Faces using some classification algorithm
 
 
 	FaceRecognition/face recog/face_data_collect.py
